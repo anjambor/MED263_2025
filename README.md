@@ -1,4 +1,4 @@
-# MED263 Winter 2023, Bioinformatics Applications to Human Disease
+# MED263 Winter 2024, Bioinformatics Applications to Human Disease
 
 ## Course Description
 This elective course will cover the latest advances in bioinformatics in the context of human diseases. Students will be provided with the practical skills to implement what they have learned in class. Specifically, when the course is finished, students will be able to analyze multi-omics data to understand human disease.
@@ -6,7 +6,7 @@ This elective course will cover the latest advances in bioinformatics in the con
 
 ## Course Information
 * Number: MED263, Bioinformatics Applications to Human Disease
-* Quarter: Winter 2023
+* Quarter: Winter 2024
 * Units: 4
-* Directors: Dr. Matteo D'Antonio (madantonio@health.ucsd.edu)
-* TAs: Caitlin Guccione (cguccion@ucsd.edu) and Brian Johnson (bdj001@ucsd.edu)
+* Directors: Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Dr. Matteo D'Antonio (madantonio@health.ucsd.edu)
+* TAs: Brian Johnson (bdj001@ucsd.edu) and Alex Jambor (ajambor@ucsd.edu)
