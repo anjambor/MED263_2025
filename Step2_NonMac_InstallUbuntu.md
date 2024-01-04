@@ -4,6 +4,8 @@
 
 <img width="276" alt="image" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png">
 
+See https://learn.microsoft.com/en-us/windows/wsl/install
+
 Install Windows subsystem for linux (WSL) from the Windows app store.
 - Search "Turn windows features on or off"
 - Check "Virtual Machine platform" and "Windows subsystem for linux" to make sure they are both enabled
