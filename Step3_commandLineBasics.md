@@ -57,6 +57,7 @@ wget --version
 
 Windows users: Follow Ubuntu instructions above if you have installed Ubuntu.
 If not, instructions are here:
+
 [Windows instructions](https://www.jcchouinard.com/wget/#Download_Wget_on_Windows)
 
 6. Try downloading an external file
