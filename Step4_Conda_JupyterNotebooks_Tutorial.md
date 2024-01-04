@@ -50,7 +50,7 @@ In order to save time, we will be installing Miniconda (the mini version) instea
    - Start by opening up a terminal, then copy the commands below
 ```bash
 cd Downloads
-bash Miniconda3-latest-MacOSX-x86_64.sh
+bash Miniconda3-latest-MacOSX-x86_64.sh # Change to file name of the downloaded .sh file
 ```
 
 2. Windows: Install Miniconda
@@ -99,19 +99,20 @@ conda activate med263_jupyter
 ```
 - To check your conda environment is working, you should see *(med263_jupyter)* on the left part of your terminal now
 
-### Install python in the conda environment
+### Install python 3.11 in the conda environment (modify to install other python versions)
 ```bash
-conda install python
+conda install python=3.11
 ```
 
-### Confirm that Python was Installed
+### Confirm that Python 3.11 was Installed
 ```bash
 python --version
 ```
-- This command should report your current version of python and will likely say *Python 3.11.1*
+- This command should report your current version of python and should say *Python 3.11.X* (as long as it's 3.11.[something] it's good)
 
 ### Install the package for this week (htslib comes with tabix)
 ```bash
+# Specifying -c tells conda what channel to find the htslib package in. See conda cheatsheet
 conda install -c bioconda htslib
 ```  
 Check to make sure that worked
