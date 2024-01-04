@@ -2,9 +2,11 @@
 
 ## IMPORTANT: This only needs to be done if you have a Windows machine. If you have a Mac or Linux, there is no need to follow any of the steps below. 
 
-<img width="276" alt="image" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png">
+Also, this can be challenging. Ask TAs for help!
 
-See https://learn.microsoft.com/en-us/windows/wsl/install
+You may not have admin access if using the school's computer. In that case, this may not be possible. We'll figure out workarounds.
+
+<img width="276" alt="image" src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png">
 
 Install Windows subsystem for linux (WSL) from the Windows app store.
 - Search "Turn windows features on or off"
