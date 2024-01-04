@@ -2,7 +2,7 @@
 
 ## IMPORTANT: This only needs to be done if you have a Windows machine. If you have a Mac or Linux, there is no need to follow any of the steps below. 
 
-This can be challenging. Ask TAs for help!
+This can be challenging, but it's worth it! Ask TAs for help!
 
 You may not have admin access if using the school's computer. In that case, this may not be possible. We'll figure out workarounds.
 
