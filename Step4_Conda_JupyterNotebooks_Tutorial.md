@@ -40,10 +40,12 @@ In order to save time, we will be installing Miniconda (the mini version) instea
 
 1. Download Miniconda
    - Go to the webpage: (https://docs.conda.io/en/latest/miniconda.html#installing)
-   - If you you have a Mac choose **Miniconda3 MacOSX 64-bit bash**
+   - If you you have an intel (older) Mac choose **Miniconda3 macOS Intel x86 64-bit bash**
+   - If you you have an M1 (newer) Mac choose **Miniconda3 macOS Apple M1 64-bit bash**
    - If you have Windows choose **Miniconda3 Windows 64-bit**
    - If you have Windows with Ubuntu, choose **Miniconda3 Linux 64-bit**
    - Save the miniconda download in your **Downloads** folder
+
 2. Mac and Linux/Ubuntu: Install Miniconda 
    - Start by opening up a terminal, then copy the commands below
 ```bash
