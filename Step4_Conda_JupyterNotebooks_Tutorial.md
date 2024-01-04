@@ -241,10 +241,10 @@ Should print the following:
 
 ## Cheat Sheets
 ### Conda
-[conda-cheatsheet.pdf](https://github.com/yosoykit/MED263-private/files/7824027/conda-cheatsheet.pdf)
+[conda-cheatsheet.pdf](https://github.com/bdj34/MED263_2024/blob/main/cheat_sheets/conda-cheatsheet.pdf)
 
 ### Python
-[python-cheatsheet.pdf](https://github.com/yosoykit/MED263-private/files/7824039/python-cheatsheet.pdf)
+[python-cheatsheet.pdf](https://github.com/bdj34/MED263_2024/blob/main/cheat_sheets/python-cheatsheet.pdf)
 
 ## References & Additional Help
 Installing Conda: (https://docs.anaconda.com/anaconda/install/linux/)  
