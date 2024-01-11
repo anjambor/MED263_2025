@@ -191,7 +191,7 @@ print(plot1)
 print(plot1 + geom_point(data = df, aes(x = x_data, y = y_data), color = "black", size = 1))
 
 # Get rid of that ugly grey background with theme_bw()
-print(plot2 + theme_bw())
+print(plot1 + theme_bw())
 ```
 
 ## Bonus: Changing R versions
