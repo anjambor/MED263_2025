@@ -15,17 +15,16 @@ git --version
 
 ### Clone a repo from Github using command line
 
-1. Find the repo you want to clone, we will be using: https://github.com/MED263-WI23/MED263_Intro , and copy the link
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/25289269/212199877-748ca742-ac90-40e1-86c9-a9f2862a74fa.png">
+1. Find the repo you want to clone, we will be using: https://github.com/bdj34/MED263_2024 , and copy the link
 - Make sure you are have 'HTTPS' highlighted in the Clone Window on Github
 
 2. Open up a command line and navigate to where you want to save this repo, then clone the repo
 
 ```bash
-git clone https://github.com/MED263-WI23/MED263_Intro.git
+git clone https://github.com/bdj34/MED263_2024
 ```
 
-3. There should now be a new folder titled **MED263_Intro** which contains all the code from the repo!
+3. There should now be a new folder titled **MED263_2024** which contains all the code from the repo!
 
 <img width="276" alt="image" src="https://foundations.projectpythia.org/_images/GitHub-logo.png">
 
@@ -35,13 +34,16 @@ git clone https://github.com/MED263-WI23/MED263_Intro.git
 - Github allows you to work together on code with people from around the world
 - Github has excellent version control of all submited code 
 #### Why use Github?
-- Github allows for easy collobaration across multiple people
+- Github allows for easy collabaration across multiple people
 - Github version control allows you to save yourself when you break your code or your computer 😅 
 - Github repos are a great display of your past work and coding skills for future employers
 
-### Create a Github & Install Github Desktop
-1. Sign up for github: https://github.com/signup?user_email=&source=form-home-signup
-2. Install Github desktop: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=windows
+### Create a Github account
+Sign up for github: https://github.com/signup?user_email=&source=form-home-signup
+
+### Github Desktop
+- Github Desktop is a Graphical User Interface (GUI) which allows you to use git in a more user-friendly way
+- Install Github desktop: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=windows
 
 
 ### Create your first Repositry (Repo)
