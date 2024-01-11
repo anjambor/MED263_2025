@@ -1,4 +1,31 @@
-# Tutorial: Github
+# Tutorial: Git and Github
+
+Git and Github are not the same thing! 
+-Git is an open-source, command-line tool for version control. It allows you to set up a repository (basically, a directory) and track your changes. If something bad happens that breaks your code, you can go back to a previous version where everything worked.
+-Github is a code hosting platform which is excellent for collaboration and version control via git
+-Github hosts git repositories
+
+### Install command line version of Git
+
+1. Use this guide to install: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+2. Test to see that you installed git correctly by typing the following into your command line
+```bash
+git --version
+```
+
+### Clone a repo from Github using command line
+
+1. Find the repo you want to clone, we will be using: https://github.com/MED263-WI23/MED263_Intro , and copy the link
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/25289269/212199877-748ca742-ac90-40e1-86c9-a9f2862a74fa.png">
+- Make sure you are have 'HTTPS' highlighted in the Clone Window on Github
+
+2. Open up a command line and navigate to where you want to save this repo, then clone the repo
+
+```bash
+git clone https://github.com/MED263-WI23/MED263_Intro.git
+```
+
+3. There should now be a new folder titled **MED263_Intro** which contains all the code from the repo!
 
 <img width="276" alt="image" src="https://foundations.projectpythia.org/_images/GitHub-logo.png">
 
@@ -47,30 +74,3 @@ touch new_file.txt
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/25289269/211669528-b30d01e3-6365-468e-9dbf-7252b9c1f296.png">
 7. Go back to https://github.com and see your most recent commit 🎉
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/25289269/211670127-e1859b36-0fd4-42da-a992-4d649e2fd733.png">
-
-### Install command line version of Git
-
-1. Use this guide to install: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-2. Test to see that you installed github correctly by typing the following into your command line
-```bash
-git --version
-```
-
-### Clone a repo from Github using command line
-
-1. Find the repo you want to clone, we will be using: https://github.com/MED263-WI23/MED263_Intro , and copy the link
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/25289269/212199877-748ca742-ac90-40e1-86c9-a9f2862a74fa.png">
-- Make sure you are have 'HTTPS' highlighted in the Clone Window on Github
-
-2. Open up a command line and navigate to where you want to save this repo, then clone the repo
-
-```bash
-git clone https://github.com/MED263-WI23/MED263_Intro.git
-```
-
-3. There should now be a new folder titled **MED263_Intro** which contains all the code from the repo!
-
-
-
-
-
