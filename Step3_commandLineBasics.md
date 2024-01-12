@@ -32,6 +32,7 @@ wget --version
 brew --version
 
 # If brew is not installed, install it:
+# https://github.com/Homebrew/brew/releases/tag/4.2.3
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install wget using brew
