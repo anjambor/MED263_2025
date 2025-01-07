@@ -9,4 +9,4 @@ This elective course will cover the latest advances in bioinformatics in the con
 * Quarter: Winter 2024
 * Units: 4
 * Directors: Dr. Kit Curtius (kcurtius@health.ucsd.edu) and Dr. Matteo D'Antonio (madantonio@health.ucsd.edu)
-* TAs: Brian Johnson (bdj001@ucsd.edu) and Alex Jambor (ajambor@ucsd.edu)
+* TAs: Alex Jambor (ajambor@ucsd.edu) and Alex Monell (amonell@ucsd.edu)
