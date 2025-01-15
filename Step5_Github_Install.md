@@ -15,16 +15,16 @@ git --version
 
 ### Clone a repo from Github using command line
 
-1. Find the repo you want to clone, we will be using: https://github.com/bdj34/MED263_2024 , and copy the link
+1. Find the repo you want to clone, we will be using: https://github.com/anjambor/MED263_2025 , and copy the link
 - Make sure you are have 'HTTPS' highlighted in the Clone Window on Github
 
 2. Open up a command line and navigate to where you want to save this repo, then clone the repo
 
 ```bash
-git clone https://github.com/bdj34/MED263_2024
+git clone https://github.com/anjambor/MED263_2025
 ```
 
-3. There should now be a new folder titled **MED263_2024** which contains all the code from the repo!
+3. There should now be a new folder titled **MED263_2025** which contains all the code from the repo!
 
 <img width="276" alt="image" src="https://foundations.projectpythia.org/_images/GitHub-logo.png">
 
